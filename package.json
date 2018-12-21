@@ -1,0 +1,15 @@
+{
+  "name": "esp32-serial",
+  "version": "1.0.0",
+  "description": "Read serial data from ESP-32",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adis Azhar",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1",
+    "serialport": "^7.1.1"
+  }
+}
